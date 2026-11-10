@@ -1,3 +1,4 @@
+![Uploading screenshot.png…]()
 # 型构 · Frame Studio
 
 ### 铝型材 3D 结构设计与组装工作台
